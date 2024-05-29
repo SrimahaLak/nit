@@ -1,1 +1,1 @@
-print("no one")
+print("no one i considered as my enemies")
